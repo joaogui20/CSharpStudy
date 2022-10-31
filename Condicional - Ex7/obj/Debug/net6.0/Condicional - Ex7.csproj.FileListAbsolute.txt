@@ -1,0 +1,15 @@
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Condicional - Ex7\bin\Debug\net6.0\Condicional - Ex7.exe
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Condicional - Ex7\bin\Debug\net6.0\Condicional - Ex7.deps.json
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Condicional - Ex7\bin\Debug\net6.0\Condicional - Ex7.runtimeconfig.json
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Condicional - Ex7\bin\Debug\net6.0\Condicional - Ex7.dll
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Condicional - Ex7\bin\Debug\net6.0\Condicional - Ex7.pdb
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Condicional - Ex7\obj\Debug\net6.0\Condicional - Ex7.csproj.AssemblyReference.cache
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Condicional - Ex7\obj\Debug\net6.0\Condicional - Ex7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Condicional - Ex7\obj\Debug\net6.0\Condicional - Ex7.AssemblyInfoInputs.cache
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Condicional - Ex7\obj\Debug\net6.0\Condicional - Ex7.AssemblyInfo.cs
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Condicional - Ex7\obj\Debug\net6.0\Condicional - Ex7.csproj.CoreCompileInputs.cache
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Condicional - Ex7\obj\Debug\net6.0\Condicional - Ex7.dll
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Condicional - Ex7\obj\Debug\net6.0\refint\Condicional - Ex7.dll
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Condicional - Ex7\obj\Debug\net6.0\Condicional - Ex7.pdb
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Condicional - Ex7\obj\Debug\net6.0\Condicional - Ex7.genruntimeconfig.cache
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Condicional - Ex7\obj\Debug\net6.0\ref\Condicional - Ex7.dll

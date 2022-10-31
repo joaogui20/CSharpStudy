@@ -1,0 +1,15 @@
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex2\bin\Debug\net6.0\Sequencial - Ex2.exe
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex2\bin\Debug\net6.0\Sequencial - Ex2.deps.json
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex2\bin\Debug\net6.0\Sequencial - Ex2.runtimeconfig.json
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex2\bin\Debug\net6.0\Sequencial - Ex2.dll
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex2\bin\Debug\net6.0\Sequencial - Ex2.pdb
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex2\obj\Debug\net6.0\Sequencial - Ex2.csproj.AssemblyReference.cache
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex2\obj\Debug\net6.0\Sequencial - Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex2\obj\Debug\net6.0\Sequencial - Ex2.AssemblyInfoInputs.cache
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex2\obj\Debug\net6.0\Sequencial - Ex2.AssemblyInfo.cs
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex2\obj\Debug\net6.0\Sequencial - Ex2.csproj.CoreCompileInputs.cache
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex2\obj\Debug\net6.0\Sequencial - Ex2.dll
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex2\obj\Debug\net6.0\refint\Sequencial - Ex2.dll
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex2\obj\Debug\net6.0\Sequencial - Ex2.pdb
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex2\obj\Debug\net6.0\Sequencial - Ex2.genruntimeconfig.cache
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex2\obj\Debug\net6.0\ref\Sequencial - Ex2.dll

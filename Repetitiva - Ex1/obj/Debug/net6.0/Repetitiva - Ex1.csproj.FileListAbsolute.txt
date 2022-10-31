@@ -1,0 +1,15 @@
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Repetitiva - Ex1\bin\Debug\net6.0\Repetitiva - Ex1.exe
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Repetitiva - Ex1\bin\Debug\net6.0\Repetitiva - Ex1.deps.json
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Repetitiva - Ex1\bin\Debug\net6.0\Repetitiva - Ex1.runtimeconfig.json
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Repetitiva - Ex1\bin\Debug\net6.0\Repetitiva - Ex1.dll
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Repetitiva - Ex1\bin\Debug\net6.0\Repetitiva - Ex1.pdb
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Repetitiva - Ex1\obj\Debug\net6.0\Repetitiva - Ex1.csproj.AssemblyReference.cache
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Repetitiva - Ex1\obj\Debug\net6.0\Repetitiva - Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Repetitiva - Ex1\obj\Debug\net6.0\Repetitiva - Ex1.AssemblyInfoInputs.cache
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Repetitiva - Ex1\obj\Debug\net6.0\Repetitiva - Ex1.AssemblyInfo.cs
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Repetitiva - Ex1\obj\Debug\net6.0\Repetitiva - Ex1.csproj.CoreCompileInputs.cache
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Repetitiva - Ex1\obj\Debug\net6.0\Repetitiva - Ex1.dll
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Repetitiva - Ex1\obj\Debug\net6.0\refint\Repetitiva - Ex1.dll
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Repetitiva - Ex1\obj\Debug\net6.0\Repetitiva - Ex1.pdb
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Repetitiva - Ex1\obj\Debug\net6.0\Repetitiva - Ex1.genruntimeconfig.cache
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Repetitiva - Ex1\obj\Debug\net6.0\ref\Repetitiva - Ex1.dll

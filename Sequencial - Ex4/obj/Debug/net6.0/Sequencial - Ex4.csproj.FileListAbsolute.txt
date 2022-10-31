@@ -1,0 +1,15 @@
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex4\bin\Debug\net6.0\Sequencial - Ex4.exe
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex4\bin\Debug\net6.0\Sequencial - Ex4.deps.json
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex4\bin\Debug\net6.0\Sequencial - Ex4.runtimeconfig.json
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex4\bin\Debug\net6.0\Sequencial - Ex4.dll
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex4\bin\Debug\net6.0\Sequencial - Ex4.pdb
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex4\obj\Debug\net6.0\Sequencial - Ex4.csproj.AssemblyReference.cache
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex4\obj\Debug\net6.0\Sequencial - Ex4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex4\obj\Debug\net6.0\Sequencial - Ex4.AssemblyInfoInputs.cache
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex4\obj\Debug\net6.0\Sequencial - Ex4.AssemblyInfo.cs
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex4\obj\Debug\net6.0\Sequencial - Ex4.csproj.CoreCompileInputs.cache
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex4\obj\Debug\net6.0\Sequencial - Ex4.dll
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex4\obj\Debug\net6.0\refint\Sequencial - Ex4.dll
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex4\obj\Debug\net6.0\Sequencial - Ex4.pdb
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex4\obj\Debug\net6.0\Sequencial - Ex4.genruntimeconfig.cache
+C:\Users\joao.guilherme\Recapitulação C#\Recapitulação\Sequencial - Ex4\obj\Debug\net6.0\ref\Sequencial - Ex4.dll
